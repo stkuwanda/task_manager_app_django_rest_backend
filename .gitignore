@@ -1,0 +1,52 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 📦 Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# 🗃️ SQLite Database
+*.sqlite3
+db.sqlite3
+
+# 🧪 Test and Coverage
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.log
+
+# 🧰 IDE and Editor Noise
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# 📄 OS Files
+Thumbs.db
+.DS_Store
+
+# 📦 Pip
+pip-log.txt
+
+# 📂 Migrations (optional — keep if you want to version them)
+##**/migrations/*.pyc
+##**/migrations/__pycache__/
+
+# 🔐 Secrets (if any)
+.env
+*.env
+.env.*
+
+# 📦 Node (if frontend is involved)
+node_modules/
