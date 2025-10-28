@@ -175,3 +175,7 @@ Contains the complete frontend application with:
 - `GET /api/tasks/{id}/` - Retrieve specific task
 - `PUT /api/tasks/{id}/` - Update task
 - `DELETE /api/tasks/{id}/` - Delete task
+
+## Special Attributions for this project
+
+- [amirrezaskh](https://github.com/amirrezaskh/mini-task-manager)
